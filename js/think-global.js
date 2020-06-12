@@ -4,7 +4,7 @@ const PROGRAMS = [
 		program_title: "Volunteer at Spain!",
 		program_subtitle: "Five Week Program",
 		program_description: "A five week program where you can immerse yourself in Spanish culture and have an experience of a lifetime.",
-		image: "images/rafting-1560642.jpg",
+		image: "images/spain.jpg",
 		image_title: "Estimate cost : $15,000"
 	},
 	{
@@ -19,24 +19,24 @@ const PROGRAMS = [
 		id: "program-3",
 		program_title: "Volunteer at Africa!",
 		program_subtitle: "Five week program",
-		program_description: "A five week program where you can immerse yourself in Spanish culture and have an experience of a lifetime.",
-		image: "images/gyoza.jpg",
+		program_description: "A five week program where you can immerse yourself in African culture and have an experience of a lifetime.",
+		image: "images/africa.jpg",
 		image_title: "Estimate cost : $15,000"
 	},
 	{
 		id: "program-4",
 		program_title: "Intern at Brazil!",
 		program_subtitle: "6 Month Program",
-		program_description: "Work alongside professionals in England and learn valuable skills while immersing yourself with their culture.",
-		image: "images/rafting-in-jaciara-mato-grosso-brazil-2-1433190.jpg",
+		program_description: "Work alongside professionals in Brazil and learn valuable skills while immersing yourself with their culture.",
+		image: "images/brazil.jpg",
 		image_title: "Estimate cost : $15,000"
 	},
 	{
 		id: "program-5",
 		program_title: "Volunteer at India!",
 		program_subtitle: "Five week program",
-		program_description: "A five week program where you can immerse yourself in Spanish culture and have an experience of a lifetime.",
-		image: "images/sashimi.jpg",
+		program_description: "A five week program where you can immerse yourself in Indian culture and have an experience of a lifetime.",
+		image: "images/india.jpg",
 		image_title: "Estimate cost : $15,000"
 	},
  ];
